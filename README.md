@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hello! Alex here and welcome to my Github. 👋
 
+## I am an aspiring full stack software developer, training with [Founders and Coders](https://www.foundersandcoders.com/about/). 
 <!--
 **AlexPD93/AlexPD93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
