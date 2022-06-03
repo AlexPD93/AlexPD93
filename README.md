@@ -10,7 +10,7 @@
 - :computer: I really enjoy watching a page come to life with front end development. However, I am excited to learn more about the back end. 
 - :school: I am learning ES6, CSS and React. Furthermore I enjoy working with API's.
 - :soccer: I love playing and watching sport, particularly football(soccer) and travelling to new and interesting places. I can also speak Spanish. 
-- :smiley_cat: I'm currently working on a Founders and Coders project to create a mock website for an agency. Using HTML, CSS and JS. 
+- :smiley_cat: I'm currently working on recreating Wordle. Using HTML, CSS and JS. 
 
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexPD93)](https://github.com/AlexPD93`/github-readme-stats)
