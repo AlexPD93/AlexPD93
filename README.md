@@ -16,6 +16,6 @@
 I took a short React course online and made a [Dictionary](https://silly-golick-e51239.netlify.app/) and a [weather app](https://mystifying-kepler-7d4bc5.netlify.app/)
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexPD93)](https://github.com/AlexPD93`/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexPD93)](https://git.io/streak-stats)
+
 
 
