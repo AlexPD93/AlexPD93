@@ -10,7 +10,7 @@
 - :computer: I really enjoy watching a page come to life with front end development. However, I am excited to learn more about the back end. 
 - :school: I am learning ES6, CSS and React. Furthermore I enjoy working with API's.
 - :soccer: I love playing and watching sport, particularly football(soccer) and travelling to new and interesting places. I can also speak Spanish. 
-- :smiley_cat: I'm currently working on recreating Wordle. Using HTML, CSS and JS. 
+- :smiley_cat: I'm currently working on the last project for the Founders and Coders pre appreticeship stage. Using HTML, CSS and JS. 
 
 ## Projects I like
 I took a short React course online and made a [Dictionary](https://silly-golick-e51239.netlify.app/) and a [weather app](https://mystifying-kepler-7d4bc5.netlify.app/)
