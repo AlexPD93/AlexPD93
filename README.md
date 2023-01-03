@@ -12,7 +12,7 @@
 - :soccer: I love playing and watching sport, particularly football(soccer) and travelling to new and interesting places. I can also speak Spanish.  
 
 ## Projects I like
-During the Founders and Coders 12 week bootcamp I worked on a Tech for Better project with professional experience. (https://github.com/fac25/amai-mtoto) 
+During the Founders and Coders 12 week bootcamp I worked on a Tech for Better project with professional experience. [Link here](https://github.com/fac25/amai-mtoto) 
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexPD93)](https://github.com/AlexPD93`/github-readme-stats)
 
