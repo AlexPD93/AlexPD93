@@ -16,7 +16,6 @@ Tech for Better project with professional experience. [Link here](https://github
 
 In house event based project with Founders and Coders. [Link here](https://github.com/fac25/week7-away-days)
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexPD93)](https://github.com/AlexPD93`/github-readme-stats)
 
 
 
