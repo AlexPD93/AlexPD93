@@ -3,7 +3,7 @@
 
 # Hello! Welcome to my Github. 👋
 
-## :man_technologist: I am an aspiring full stack software developer, training with [Founders and Coders](https://www.foundersandcoders.com/about/).  
+## :man_technologist: I am an aspiring full stack software developer, who has just completed their training with [Founders and Coders](https://www.foundersandcoders.com/about/).  
 
 ## About me:
 - :man_beard: Pronouns: He/Him
@@ -12,7 +12,9 @@
 - :soccer: I love playing and watching sport, particularly football(soccer) and travelling to new and interesting places. I can also speak Spanish.  
 
 ## Projects I like
-During the Founders and Coders 12 week bootcamp I worked on a Tech for Better project with professional experience. [Link here](https://github.com/fac25/amai-mtoto) 
+Tech for Better project with professional experience. [Link here](https://github.com/fac25/amai-mtoto) 
+
+In house event based project with Founders and Coders. [Link here](https://github.com/fac25/week7-away-days)
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexPD93)](https://github.com/AlexPD93`/github-readme-stats)
 
