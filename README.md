@@ -1,9 +1,6 @@
-<img width="90%" alt="Smaller image Alex" src="https://user-images.githubusercontent.com/78558945/170890680-cbd59a79-7b69-4316-9427-9e72ccd2c92b.png">
-
-
 # Hello! Welcome to my Github. 👋
 
-## :man_technologist: I am an aspiring full stack software developer, who has just completed their training with [Founders and Coders](https://www.foundersandcoders.com/about/).  
+## :man_technologist: I am a full stack software developer, who has just completed their training with [Founders and Coders](https://www.foundersandcoders.com/about/).  
 
 ## About me:
 - :man_beard: Pronouns: He/Him
