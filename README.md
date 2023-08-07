@@ -1,6 +1,6 @@
 # Hello! Welcome to my Github. 👋
 
-## :man_technologist: I am a software developer at Brokit.  
+## :man_technologist: I am a Junior Software Developer at Brokit.  
 
 ## About me:
 - :man_beard: Pronouns: He/Him
