@@ -14,7 +14,7 @@ Inspirational quote generator using Next.js, Typescript and AWS. [Link here](htt
 
 Tech for Better project with professional experience. [Link here](https://github.com/fac25/amai-mtoto) 
 
-In house event based project with Founders and Coders. [Link here](https://github.com/fac25/week7-away-days)
+
 
 
 
