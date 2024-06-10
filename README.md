@@ -1,6 +1,6 @@
 # Hello! Welcome to my Github. 👋
 
-## :man_technologist: I am looking for my next role as a Software Engineer.  
+## :man_technologist: I am a Software Engineer Apprentice with Hackney Council.  
 
 ## About me:
 - :man_beard: Pronouns: He/Him
