@@ -1,12 +1,12 @@
 # Hello! Welcome to my Github. 👋
 
-## :man_technologist: I am a Software Engineer Apprentice with Hackney Council.  
+## :man_technologist: I am a Software Engineer with Hackney Council.  
 
 ## About me:
 - :man_beard: Pronouns: He/Him
-- :computer: I really enjoy watching a page come to life with front end development. However, I am excited to learn more about the back end. 
-- :school: I have worked with React, Next.js, JavaScript, AWS Amplify, mysqlite and Vue.js. 
-- :soccer: I love playing and watching sport, particularly football(soccer) and travelling to new and interesting places. I can also speak Spanish.  
+- :computer: I take full ownership from concept to deployment, building accessible and well-tested products that make a real impact.
+- :school: I have worked with React, Next.js, JavaScript,TypeScript, C#, Python, .Net, AWS. 
+- :soccer: I love playing and watching sport, particularly football and travelling to new and interesting places. I can also speak Spanish.  
 
 ## Projects I like
 
