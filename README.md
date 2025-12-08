@@ -1,6 +1,6 @@
 # Hello! Welcome to my Github. 👋
 
-## :man_technologist: I am a Software Engineer with Hackney Council.  
+## :man_technologist: I am a Full Stack Software Engineer with Hackney Council.  
 
 ## About me:
 - :man_beard: Pronouns: He/Him
